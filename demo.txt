@@ -6,6 +6,6 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 test.
 slot.
-dog.
+big dog.
 cat.
 
